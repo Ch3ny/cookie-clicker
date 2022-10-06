@@ -1,0 +1,20 @@
+body {
+  background: url("../img/bg.png");
+}
+#cookie {
+  max-width: 300px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+
+#counter{ font-size: 60px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+
+  
+
